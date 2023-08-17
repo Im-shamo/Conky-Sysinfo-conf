@@ -1,4 +1,5 @@
 # Conky-configs
 my personal conky configs
 
-![image](https://github.com/Im-shamo/Conky-configs/assets/59657733/5c242bb9-47b0-49a6-b8e4-1653e4f5ffed)
+here is a preview
+![image](https://github.com/Im-shamo/Conky-configs/assets/59657733/75c6d74f-eff3-4fab-8485-36bf2eb9739c)
