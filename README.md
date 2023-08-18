@@ -25,9 +25,9 @@ sudo apt install fonts-font-awesome conky
 
 1. git clone the repository to `~/.conky` or a directory you like
 
-if `~/.conky` doesn't exist then create it
+   if `~/.conky` doesn't exist then create it
 
-Open terminal and type
+   Open terminal and type
 
 ```bash
 mkdir -p ~/.conky
@@ -37,7 +37,7 @@ cd ./Conky-Sysinfo-conf
 ```
 2. Then edit the file `conky_open.sh`
 
-edit line 5 of the script
+   edit line 5 of the script
 
 ```
 # Change "$HOME/.conky" to where you git clone the repository
@@ -53,13 +53,13 @@ sudo chmod +x ./conky_open.sh
 
 4. edit the networking section if network doesn`t work
 
-run this command 
+   run this command 
 
 ```bash
 nmcli dev status
 ```
-get your network device. It will be like `wlo1` or `wlan0`
+   get your network device. It will be like `wlo1` or `wlan0`
 
-go to `conky_sysinfo.conf`
+   go to `conky_sysinfo.conf`
 
-and change all the `wlo1` to your device in that section
+   and change all the `wlo1` to your device in that section
