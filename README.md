@@ -51,7 +51,7 @@ sudo chmod +x ./conky_open.sh
 
 - edit the networking section if network doesn`t work
 
-    - run this command
+   - run this command
 
 ```bash
 nmcli dev status
