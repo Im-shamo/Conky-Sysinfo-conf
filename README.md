@@ -52,4 +52,6 @@ nmcli dev status
 ```
 get your network device. It will be like `wlo1` or `wlan0`
 
+go to `conky_sysinfo/conf`
+
 and change all the `wlo1` to your device in that section
