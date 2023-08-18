@@ -23,9 +23,9 @@ sudo apt install fonts-font-awesome conky
 ```
 ## Installation
 
-git clone the repository to `~/.conky/` or a directory you like
+1. git clone the repository to `~/.conky` or a directory you like
 
-if `~/.conky/` doesn't exist then create it
+if `~/.conky` doesn't exist then create it
 
 Open terminal and type
 
@@ -35,22 +35,23 @@ cd ~/.conky
 git clone https://github.com/Im-shamo/Conky-Sysinfo-conf.git
 cd ./Conky-Sysinfo-conf
 ```
-then edit the file `conky_open.sh`
+2. Then edit the file `conky_open.sh`
 
-edit line 4 of the script
+edit line 5 of the script
 
-    #change $HOME/.config/conky/Conky-Sysinfo-conf/ to the dir of where conky_sysinfo.conf is in
-    conky -dq -c "$HOME/.config/conky/Conky-Sysinfo-conf/conky_sysinfo.conf" & exit
+```
+# Change "$HOME/.conky" to where you git clone the repository
+dir="$HOME/.conky"
+```
 
-lastly, chmod and execute `conky_open.sh`
+3. chmod and execute `conky_open.sh`
 
 ```bash
 sudo chmod +x ./conky_open.sh
 ./conky_open.sh
 ```
 
-
-edit the networking section if network doesn`t work
+4. edit the networking section if network doesn`t work
 
 run this command 
 
