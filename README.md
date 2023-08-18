@@ -23,9 +23,9 @@ sudo apt install fonts-font-awesome conky
 ```
 ## Installation
 
-git clone the repository to `${home}/.conky/` or a directory you like
+git clone the repository to `~/.conky/` or a directory you like
 
-if `${home}/.conky/` doesn't exist then create it
+if `~/.conky/` doesn't exist then create it
 
 Open terminal and type
 
