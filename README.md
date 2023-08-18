@@ -50,6 +50,6 @@ run this command
 ```bash
 nmcli dev status
 ```
-get you network device like `wlo1` or `wlan0`
+get your network device. It will be like `wlo1` or `wlan0`
 
-and change on the `wlo1` in that section
+and change all the `wlo1` to your device in that section
