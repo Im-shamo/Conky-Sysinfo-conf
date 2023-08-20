@@ -6,7 +6,7 @@ With System infomation like cpu, gpu, ram, file systems, networking and system p
 
 ## Screenshot
 
-![Screenshot from 2023-08-17 21-38-08](https://github.com/Im-shamo/Conky-configs/assets/59657733/4c22dcc2-69b3-44e6-91cb-5c7f2739905d)
+![Screenshot from 2023-08-17 21-38-08](Conky-Sysinfo.png)
 
 ## Requires
 Insure that you have installed
