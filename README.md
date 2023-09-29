@@ -21,6 +21,10 @@ For Debian/Ubuntu
 sudo apt update
 sudo apt install fonts-font-awesome conky
 ```
+For Arch
+
+Use an AUR helper to install `ttf-font-awesome-5 conky-lua-nv`
+
 ## Installation
 
 - git clone the repository to `~/.conky` or a directory you like
