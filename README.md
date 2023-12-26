@@ -19,7 +19,7 @@ For Debian/Ubuntu
 
 ```bash
 sudo apt update
-sudo apt install fonts-font-awesome conky
+sudo apt install fonts-font-awesome conky-all
 ```
 For Arch
 
