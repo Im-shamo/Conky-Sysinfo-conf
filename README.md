@@ -23,7 +23,7 @@ sudo apt install fonts-font-awesome conky-all
 ```
 For Arch
 
-Use an AUR helper to install `ttf-font-awesome-5 conky-lua-nv`
+Use an AUR helper to install `ttf-font-awesome conky-lua-nv`
 
 ## Installation
 
